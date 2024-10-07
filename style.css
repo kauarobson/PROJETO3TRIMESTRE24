@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Afacad+Flux:wght@100..1000&display=swap');
+
+:root{
+    --bg-color: #2D9596;
+    --primary-color: #6C22A6;
+    --secondary-color: #FF004D;
+    --font: "Afacad Flux", sans-serif;
+
+
+    body{
+        background-color: var(--bg-color);
+    }
+}
